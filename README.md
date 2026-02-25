@@ -1,6 +1,6 @@
-# Hi, I'm Abtin Ijadi Maghsoodi
+# Hi, I'm Abtin 
 
-New Zealand-based applied AI, data science, and research engineering builder.
+New Zealand-based | Polyglot Programmer | Data and AI Scientist 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -14,14 +14,14 @@ New Zealand-based applied AI, data science, and research engineering builder.
 ![Data Science](https://img.shields.io/badge/-Data%20Science-0F766E?style=flat-square)
 ![Research Engineering](https://img.shields.io/badge/-Research%20Engineering-7C3AED?style=flat-square)
 
-> Building practical AI systems and analytics-driven products, with an emphasis on real-world deployment, decision intelligence, and sovereign data/LLMOps infrastructure.
+> Building practical AI systems and analytics-driven products, with an emphasis on real-world deployment, decision intelligence and infrastructures.
 
-## Current Ventures
+## Current Projects
 
 - **[WeftLineAI](https://www.weftlineai.com)** - AI teammates for organizations
 - **[Te Marama AI](https://www.temaramaai.com)** - Sovereign DataOps and LLMOps infrastructure
 
-Some active venture work is maintained in private repositories. Public work and research-oriented projects are listed below.
+Some active project work is maintained in private repositories. Public work and research-oriented projects are listed below.
 
 ## Building Style
 
