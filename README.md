@@ -15,14 +15,14 @@ New Zealand-based applied AI, data science, and research engineering builder.
 
 > Building practical AI systems and analytics-driven products, with an emphasis on real-world deployment, decision intelligence, and sovereign data/LLM infrastructure.
 
-## Current Projects
+## Current Ventures
 
 - **[WeftLineAI](https://www.weftlineai.com)** - AI teammates for organizations
 - **[Te Marama AI](https://www.temaramaai.com)** - Sovereign DataOps and LLMOps infrastructure
 
 Some active venture work is maintained in private repositories. Public work and research-oriented projects are listed below.
 
-## Public Work
+## Legacy Projects
 
 - **[CLUSMCDA-R-Package](https://github.com/Aimaghsoodi/CLUSMCDA-R-Package)** - CLUS-MCDA project extensions and developments in R
 - **[CLUS-MCDA-II](https://github.com/Aimaghsoodi/CLUS-MCDA-II)** - CLUS-MCDA extensions and developments in Python
@@ -33,10 +33,6 @@ Some active venture work is maintained in private repositories. Public work and 
 - Data and LLM engineering infrastructure
 - Decision analytics and MCDA methods
 - Research-to-production implementation
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Aimaghsoodi)
 
 ## Connect
 
