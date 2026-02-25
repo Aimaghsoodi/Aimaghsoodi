@@ -9,11 +9,12 @@ New Zealand-based applied AI, data science, and research engineering builder.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-111827?style=flat-square)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-0F766E?style=flat-square)
 ![Research Engineering](https://img.shields.io/badge/-Research%20Engineering-7C3AED?style=flat-square)
 
-> Building practical AI systems and analytics-driven products, with an emphasis on real-world deployment, decision intelligence, and sovereign data/LLM infrastructure.
+> Building practical AI systems and analytics-driven products, with an emphasis on real-world deployment, decision intelligence, and sovereign data/LLMOps infrastructure.
 
 ## Current Ventures
 
@@ -21,6 +22,13 @@ New Zealand-based applied AI, data science, and research engineering builder.
 - **[Te Marama AI](https://www.temaramaai.com)** - Sovereign DataOps and LLMOps infrastructure
 
 Some active venture work is maintained in private repositories. Public work and research-oriented projects are listed below.
+
+## Building Style
+
+- Product-minded AI engineering
+- Practical deployment over demos
+- Data sovereignty and infrastructure-first thinking
+- Research ideas translated into usable systems
 
 ## Legacy Projects
 
