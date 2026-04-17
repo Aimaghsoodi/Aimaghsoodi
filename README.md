@@ -18,8 +18,10 @@ New Zealand-based | Polyglot Programmer | Data and AI Scientist
 
 ## Current Projects
 
+- **[AbteeX AI Labs](https://www.AbteeX.com)** - My AI Lab :) 
 - **[WeftLineAI](https://www.weftlineai.com)** - AI teammates for organizations
 - **[Te Marama AI](https://www.temaramaai.com)** - Sovereign DataOps and LLMOps infrastructure
+- **[LumynaX](https://www.LumynaX.com)** - Sovereign DataOps and LLMOps infrastructure
 - **[GoalOS](https://github.com/Aimaghsoodi/GoalOS)** - Structured intent graphs for AI agent alignment; a protocol that gives AI tools a shared understanding of what you're trying to achieve
 - **[FailSafe](https://github.com/Aimaghsoodi/FailSafe)** - AI failure intelligence platform; predict, detect, and recover from AI agent failures with structured failure taxonomies
 - **[AgentSpec](https://github.com/Aimaghsoodi/AgentSpec)** - Declarative agent behavior specifications; define, document, and enforce what AI agents can and cannot do
