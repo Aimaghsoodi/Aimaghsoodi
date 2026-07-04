@@ -19,7 +19,7 @@ New Zealand-based | Polyglot Programmer | Data and AI Scientist
 ## Current Projects
 
 - **[AbteeX AI Labs](https://www.AbteeX.com)** - My AI Lab :)
-- **[Foveance] (https://github.com/Aimaghsoodi/foveance)** - Foveance - Anticipatory Context Allocation for Long-Horizon LLM Agent
+- **[Foveance](https://github.com/Aimaghsoodi/foveance)** - Foveance - Anticipatory Context Allocation for Long-Horizon LLM Agent
 - **[WeftLineAI](https://www.weftlineai.com)** - AI teammates for organizations
 - **[Te Marama AI](https://www.temaramaai.com)** - Sovereign DataOps and LLMOps infrastructure
 - **[LumynaX](https://www.LumynaX.com)** - Sovereign DataOps and LLMOps infrastructure
